@@ -1,0 +1,12 @@
+{
+  "token": "",
+  "ownerID": "488058882195849258",
+  "douaneChannelID": "1311768891692810270", #Ajouter l'ID ici
+}
+  "logsChannelID": "1315787690251255829", #Ajouter l'ID ici
+}
+  "whitelist": [
+    "488058882195849258"
+  ],
+  "verificationRole": "" #Ajouter l'ID du role ici
+}
