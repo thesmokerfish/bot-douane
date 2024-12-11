@@ -1,12 +1,12 @@
 {
   "token": "",
   "ownerID": "123456789",
-  "douaneChannelID": "123456789", #Ajouter l'ID ici
+  "douaneChannelID": " Ajouter l'ID ici",
 }
-  "logsChannelID": "123456789", #Ajouter l'ID ici
+  "logsChannelID": " Ajouter l'ID ici",
 }
   "whitelist": [
     "123456789"
   ],
-  "verificationRole": "123456789" // Ajouter l'ID du role ici
+  "verificationRole": "Ajouter l'ID du role ici"
 }
