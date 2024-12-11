@@ -1,4 +1,4 @@
-# Discord Bot - Douane
+# Discord Bot - Douane 🚨
 
 Ce bot Discord permet de gérer un système de vérification et de contrôle pour les nouveaux membres rejoignant un serveur Discord. Il propose des fonctionnalités de configuration avancées pour personnaliser les salons, les rôles et les listes de contrôle d'accès.
 
